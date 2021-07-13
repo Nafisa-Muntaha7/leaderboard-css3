@@ -23,6 +23,32 @@ hr{
     border: 1px solid #D1D1D1;
     margin-bottom: 27px;
 }
+/* -------------
+Header styles
+ --------------- */
+ .header{
+     background-color: blue;
+     height: 90px;
+ }
+ .top-side{
+    display: flex;
+    padding-left: 220px;
+    padding-top: 15px;
+   
+ }
+ .side-top{
+     color: snow;
+     display: flex;
+     padding-left: 500px;
+ }
+ .top-side img{
+    width: 50px;
+    height: 60px;
+ }
+ .top-side h1{
+     color: white;
+     padding-left: 10px;
+ }
      
 /* ---------------
  top players style
