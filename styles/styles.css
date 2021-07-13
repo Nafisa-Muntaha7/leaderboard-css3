@@ -45,6 +45,9 @@ Header styles
     width: 50px;
     height: 60px;
  }
+ .header-img{
+     padding-left: 20px;
+ }
  .top-side h1{
      color: white;
      padding-left: 10px;
